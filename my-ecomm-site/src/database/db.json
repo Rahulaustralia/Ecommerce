@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "pname": "Smart Watch",
+      "pimage": "https://m.media-amazon.com/images/I/41MM4vYeA5L._SX300_SY300_QL70_FMwebp_.jpg",
+      "ptittle": "Fire-Boltt Lumos Stainless Steel Luxury Smart Watch with 1.91” Large Display, Bluetooth Calling, Voice Assistant, 100+ Sports Modes",
+      "pprice": "1200",
+      "id": "1"
+    },
+    {
+      "id": "221c",
+      "pname": "Samsung Galaxy S21FE",
+      "pimage": "https://m.media-amazon.com/images/I/51Mz-xGsaML._MCnd_AC_.jpg",
+      "ptittle": "Samsung Galaxy S21 FE 5G (2023) (8GB 256GB Olive) with Snapdragon 888",
+      "pprice": "33788"
+    },
+    {
+      "id": "db51",
+      "pname": "Samsung Galaxy S21FE",
+      "pimage": "https://m.media-amazon.com/images/I/51Mz-xGsaML._MCnd_AC_.jpg",
+      "ptittle": "Samsung Galaxy S21 FE 5G (2023) (8GB 256GB Olive) with Snapdragon 888",
+      "pprice": "33788"
+    }
+  ]
+}
